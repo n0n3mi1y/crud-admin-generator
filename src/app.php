@@ -39,10 +39,10 @@ $app->register(new Silex\Provider\DoctrineServiceProvider(), array(
 		'dbs.options' => array(
 			'db' => array(
 				'driver'   => 'pdo_mysql',
-				'dbname'   => 'DATABASE_NAME',
-				'host'     => '127.0.0.1',
-				'user'     => 'DATABASE_USER',
-				'password' => 'DATABASE_PASS',
+				'dbname'   => 'desolate_rent',
+				'host'     => '82.146.47.222',
+				'user'     => 'n0n',
+				'password' => '091001Dfyz!@#',
 				'charset'  => 'utf8',
 			),
 		)
